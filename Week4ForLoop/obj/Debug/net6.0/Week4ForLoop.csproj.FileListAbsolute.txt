@@ -1,0 +1,14 @@
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\bin\Debug\net6.0\Week4ForLoop.exe
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\bin\Debug\net6.0\Week4ForLoop.deps.json
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\bin\Debug\net6.0\Week4ForLoop.runtimeconfig.json
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\bin\Debug\net6.0\Week4ForLoop.dll
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\bin\Debug\net6.0\Week4ForLoop.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.AssemblyInfoInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.AssemblyInfo.cs
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.csproj.CoreCompileInputs.cache
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.dll
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\refint\Week4ForLoop.dll
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.pdb
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\Week4ForLoop.genruntimeconfig.cache
+C:\Users\Animal V2 Mobile\source\repos\Week4ForLoop\Week4ForLoop\obj\Debug\net6.0\ref\Week4ForLoop.dll
